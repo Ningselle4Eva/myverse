@@ -1,198 +1,198 @@
 #EXTM3U billed-msg="✧𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦𝑣𝑒𝑟𝑠𝑒𝑂𝑇𝑇! 𝐸𝑛𝑗𝑜𝑦 𝑤𝑎𝑡𝑐ℎ𝑖𝑛𝑔!! - Ningning__ (PHC)✧"
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/GEUL42b.png",✦ Kapamilya Channel
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/GEUL42b.png",㊙ Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/xStBUu7.png",✦ Kapamilya Channel HD
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/xStBUu7.png",㊙ Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/D3qGmme.png",✦ GMA
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/D3qGmme.png",㊙ GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/YwKq8Ta.png",✦ GTV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/YwKq8Ta.png",㊙ GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/jsCBRq0.png",✦ TV5
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/jsCBRq0.png",㊙ TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/btiNwYt.png",✦ One Sports
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/btiNwYt.png",㊙ One Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/DVSTY3w.png",✦ A2Z
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/DVSTY3w.png",㊙ A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/S4jZDXH.png",✦ All TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/S4jZDXH.png",㊙ All TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/ycPz1Uc.png",✦ People's Television
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/ycPz1Uc.png",㊙ People's Television
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/PwFOHQb.png",✦ IBC
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/PwFOHQb.png",㊙ IBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/e6rZCVd.png",✦ Net25
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/e6rZCVd.png",㊙ Net25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/rkz7ike.png",✦ UNTV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/rkz7ike.png",㊙ UNTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/LpPaA89.png",✦ RJ TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/LpPaA89.png",㊙ RJ TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/IDCHfXm.png",✦ RPTV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/IDCHfXm.png",㊙ RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/Q81UWCk.png",✦ TeleRadyo
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Q81UWCk.png",㊙ TeleRadyo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/3tbmAlN.png",✦ Aliw Channel
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/3tbmAlN.png",㊙ Aliw Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/P1mCl2k.png",✦ DZRH TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/P1mCl2k.png",㊙ DZRH TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/U8L0Liq.png",✦ True FM TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/U8L0Liq.png",㊙ True FM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/28X1hNb.png",✦ Radyo Bandido TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/28X1hNb.png",㊙ Radyo Bandido TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/0Dy6Olh.png",✦ Pinoy Xtreme
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/0Dy6Olh.png",㊙ Pinoy Xtreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/uyRZJAo.png",✦ CLTV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/uyRZJAo.png",㊙ CLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/HhxOIJq.png",✦ TVUP
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/HhxOIJq.png",㊙ TVUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/UIqEr2y.png",✦ Knowledge Channel
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/UIqEr2y.png",㊙ Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/zVh11EA.png",✦ Oras ng Himala TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/zVh11EA.png",㊙ Oras ng Himala TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/6lg5l6M.png",✦ INC TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/6lg5l6M.png",㊙ INC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/ppBTVXN.png",✦ EWTN
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/ppBTVXN.png",㊙ EWTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001104/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/JJlFY5Z.png",✦ 3ABN International
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/JJlFY5Z.png",㊙ 3ABN International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001183/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/3Sz8yWo.png",✦ TV Maria
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/3Sz8yWo.png",㊙ TV Maria
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/H2QFNam.png",✦ MPTV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/H2QFNam.png",㊙ MPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/V0sxXci.png",✦ UAAP Varsity
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/V0sxXci.png",㊙ UAAP Varsity
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/Wsj7iPd.png",✦ Living Asia Channel
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Wsj7iPd.png",㊙ Living Asia Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/zSv8YJ4.png",✦ Mindanow Network
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/zSv8YJ4.png",㊙ Mindanow Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001123/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/XzVYXaV.png",✦ ANC
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/XzVYXaV.png",㊙ ANC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/bmP06bk.png",✦ One News
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/bmP06bk.png",㊙ One News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/51qZ0RB.jpeg" group-title="myverse OTT 01 — Local" tvg-logo="https://i.imgur.com/9dMuFE1.png",✦ One PH
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/9dMuFE1.png",㊙ One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
