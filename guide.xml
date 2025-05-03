@@ -1,39 +1,71 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal Universal TV (México)">
-    <display-name lang="es">UniversalTV</display-name>
+    <display-name lang="es">universaltv.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Comedy Central (México)">
-    <display-name lang="es">Comedy Central</display-name>
+    <display-name lang="es">comedycentral.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Paramount Channel (México)">
-    <display-name lang="es">Paramount Network</display-name>
+    <display-name lang="es">paramount.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO 2 (México)">
-    <display-name lang="es">HBO 2</display-name>
+    <display-name lang="es">hbo2.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO Pop">
-    <display-name lang="es">HBO Pop</display-name>
+    <display-name lang="es">hbopop.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO Xtreme">
-    <display-name lang="es">HBO Xtreme</display-name>
+    <display-name lang="es">hboxtreme.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal HBO Plus Este">
-    <display-name lang="es">HBO +</display-name>
+  <channel id="Canal HBO Plus Oeste">
+    <display-name lang="es">hbo+.mx</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" />
     <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Space (México)">
+    <display-name lang="es">space.mx</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (México)">
+    <display-name lang="es">cinecanal.mx</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History 2 (México)">
+    <display-name lang="es">history2.mx</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Tooncast">
+    <display-name lang="es">tooncast.mx</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="eSportsONE">
+    <display-name lang="de">esportsone.de</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.pngmagentatv" />
+    <url>http://www.magentatv.de</url>
+  </channel>
+  <channel id="Star Movies">
+    <display-name lang="ar">Star Movies</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="FOX ACTION MOVIES">
+    <display-name lang="ar">FOX ACTION MOVIES</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
   <programme start="20250503001000 -0600" stop="20250503010000 -0600" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
@@ -473,43 +505,352 @@
   <programme start="20250503221900 -0600" stop="20250504000700 -0600" channel="Canal HBO Xtreme">
     <title lang="es">Rescate en las alturas</title>
   </programme>
-  <programme start="20250503002500 -0600" stop="20250503015500 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503002500 -0600" stop="20250503015500 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Stranger in the Woods</title>
   </programme>
-  <programme start="20250503015500 -0600" stop="20250503042000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503015500 -0600" stop="20250503042000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Batman inicia</title>
   </programme>
-  <programme start="20250503042000 -0600" stop="20250503060000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503042000 -0600" stop="20250503060000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Tarot</title>
   </programme>
-  <programme start="20250503060000 -0600" stop="20250503070000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503060000 -0600" stop="20250503070000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">The Last of Us</title>
   </programme>
-  <programme start="20250503070000 -0600" stop="20250503092500 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503070000 -0600" stop="20250503092500 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">El Hombre de Acero</title>
   </programme>
-  <programme start="20250503092500 -0600" stop="20250503115000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503092500 -0600" stop="20250503115000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Everything Everywhere All at Once</title>
   </programme>
-  <programme start="20250503115000 -0600" stop="20250503132500 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503115000 -0600" stop="20250503132500 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Cuando un Extraño Llama</title>
   </programme>
-  <programme start="20250503132500 -0600" stop="20250503151500 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503132500 -0600" stop="20250503151500 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Ex Machina</title>
   </programme>
-  <programme start="20250503151500 -0600" stop="20250503170000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503151500 -0600" stop="20250503170000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">El hombre lobo</title>
   </programme>
-  <programme start="20250503170000 -0600" stop="20250503190000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503170000 -0600" stop="20250503190000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Sector 9</title>
   </programme>
-  <programme start="20250503190000 -0600" stop="20250503205000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503190000 -0600" stop="20250503205000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Hombres de Negro 3</title>
   </programme>
-  <programme start="20250503205000 -0600" stop="20250503224000 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503205000 -0600" stop="20250503224000 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Después de la Tierra</title>
   </programme>
-  <programme start="20250503224000 -0600" stop="20250504003500 -0600" channel="Canal HBO Plus Este">
+  <programme start="20250503224000 -0600" stop="20250504003500 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Dampyr</title>
+  </programme>
+  <programme start="20250503005500 -0600" stop="20250503023800 -0600" channel="Canal Space (México)">
+    <title lang="es">Rambo</title>
+  </programme>
+  <programme start="20250503023800 -0600" stop="20250503042600 -0600" channel="Canal Space (México)">
+    <title lang="es">Rambo II</title>
+  </programme>
+  <programme start="20250503042600 -0600" stop="20250503061400 -0600" channel="Canal Space (México)">
+    <title lang="es">Rambo III</title>
+  </programme>
+  <programme start="20250503061400 -0600" stop="20250503075100 -0600" channel="Canal Space (México)">
+    <title lang="es">Cobra</title>
+  </programme>
+  <programme start="20250503075100 -0600" stop="20250503095500 -0600" channel="Canal Space (México)">
+    <title lang="es">Jack el cazagigantes</title>
+  </programme>
+  <programme start="20250503095500 -0600" stop="20250503120000 -0600" channel="Canal Space (México)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20250503120000 -0600" stop="20250503145100 -0600" channel="Canal Space (México)">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20250503145100 -0600" stop="20250503162800 -0600" channel="Canal Space (México)">
+    <title lang="es">Jigsaw: El Juego Continúa</title>
+  </programme>
+  <programme start="20250503162800 -0600" stop="20250503182400 -0600" channel="Canal Space (México)">
+    <title lang="es">El Conjuro</title>
+  </programme>
+  <programme start="20250503182400 -0600" stop="20250503200000 -0600" channel="Canal Space (México)">
+    <title lang="es">Saint Maud</title>
+  </programme>
+  <programme start="20250503200000 -0600" stop="20250503210000 -0600" channel="Canal Space (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20250503210000 -0600" stop="20250503224000 -0600" channel="Canal Space (México)">
+    <title lang="es">Bent</title>
+  </programme>
+  <programme start="20250503224000 -0600" stop="20250504002900 -0600" channel="Canal Space (México)">
+    <title lang="es">Maximo riesgo</title>
+  </programme>
+  <programme start="20250503013000 -0600" stop="20250503031500 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Beginners así se siente el a</title>
+  </programme>
+  <programme start="20250503031500 -0600" stop="20250503051500 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">¿Qué te juegas?</title>
+  </programme>
+  <programme start="20250503051500 -0600" stop="20250503072200 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Una aventura extraordinaria</title>
+  </programme>
+  <programme start="20250503072200 -0600" stop="20250503091500 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20250503091500 -0600" stop="20250503120000 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Una aventura extraordinaria</title>
+  </programme>
+  <programme start="20250503120000 -0600" stop="20250503140000 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20250503140000 -0600" stop="20250503154500 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Stuber: Locos al Volante</title>
+  </programme>
+  <programme start="20250503154500 -0600" stop="20250503173000 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Welcome to Sudden Death</title>
+  </programme>
+  <programme start="20250503173000 -0600" stop="20250503210000 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Un Don Excepcional</title>
+  </programme>
+  <programme start="20250503210000 -0600" stop="20250503213000 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20250503213000 -0600" stop="20250503220000 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20250503220000 -0600" stop="20250503234500 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Un Don Excepcional</title>
+  </programme>
+  <programme start="20250503234500 -0600" stop="20250504015200 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Divaldo Franco</title>
+  </programme>
+  <programme start="20250503003300 -0600" stop="20250503012800 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Francisco, el jesuita</title>
+  </programme>
+  <programme start="20250503012800 -0600" stop="20250503022200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Francisco, el jesuita</title>
+  </programme>
+  <programme start="20250503022200 -0600" stop="20250503025200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20250503025200 -0600" stop="20250503032200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20250503032200 -0600" stop="20250503042200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Las discipulas de Jesús</title>
+  </programme>
+  <programme start="20250503042200 -0600" stop="20250503052200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Siguiendo el rastro de Jesús</title>
+  </programme>
+  <programme start="20250503052200 -0600" stop="20250503062500 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El juego de espiar la guerra</title>
+  </programme>
+  <programme start="20250503062500 -0600" stop="20250503072000 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El Universo</title>
+  </programme>
+  <programme start="20250503072000 -0600" stop="20250503081500 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Gigantes de la industria</title>
+  </programme>
+  <programme start="20250503081500 -0600" stop="20250503091200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Las huellas de Jesús en Roma</title>
+  </programme>
+  <programme start="20250503091200 -0600" stop="20250503101600 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Carrera hacia la victoria</title>
+  </programme>
+  <programme start="20250503101600 -0600" stop="20250503110800 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Gigantes de la comida</title>
+  </programme>
+  <programme start="20250503110800 -0600" stop="20250503120300 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Juego de tronos, una historia</title>
+  </programme>
+  <programme start="20250503120300 -0600" stop="20250503130100 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El Siglo Asiático</title>
+  </programme>
+  <programme start="20250503130100 -0600" stop="20250503135200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Carrera hacia la victoria</title>
+  </programme>
+  <programme start="20250503135200 -0600" stop="20250503143900 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Gigantes de la comida</title>
+  </programme>
+  <programme start="20250503143900 -0600" stop="20250503153000 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Las discipulas de Jesús</title>
+  </programme>
+  <programme start="20250503153000 -0600" stop="20250503162600 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Siguiendo el rastro de Jesús</title>
+  </programme>
+  <programme start="20250503162600 -0600" stop="20250503171500 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Las huellas de Jesús en Roma</title>
+  </programme>
+  <programme start="20250503171500 -0600" stop="20250503181100 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El juego de espiar la guerra</title>
+  </programme>
+  <programme start="20250503181100 -0600" stop="20250503190000 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El Universo</title>
+  </programme>
+  <programme start="20250503190000 -0600" stop="20250503195300 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El Siglo Asiático</title>
+  </programme>
+  <programme start="20250503195300 -0600" stop="20250503204300 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Carrera hacia la victoria</title>
+  </programme>
+  <programme start="20250503204300 -0600" stop="20250503214700 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El juego de espiar la guerra</title>
+  </programme>
+  <programme start="20250503214700 -0600" stop="20250503221500 -0600" channel="Canal History 2 (México)">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20250503221500 -0600" stop="20250503230700 -0600" channel="Canal History 2 (México)">
+    <title lang="es">El Universo</title>
+  </programme>
+  <programme start="20250503230700 -0600" stop="20250504000200 -0600" channel="Canal History 2 (México)">
+    <title lang="es">Gigantes de la industria</title>
+  </programme>
+  <programme start="20250503021500 +0000" stop="20250503052000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - eSports World Cup</title>
+    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch Rainbow Six gespielt. eSPORTS1 zeigt das Turnier mit 16 der besten Teams, die um den Sieg und ein Preisgeld von 750.000 US-Dollar für den Sieger spielen.(n)</desc>
+  </programme>
+  <programme start="20250503052000 +0000" stop="20250503084500 +0000" channel="eSportsONE">
+    <title lang="de">eSports - ESL Event</title>
+    <desc lang="de">Im Juli finden im Rahmen der Snapdragon Pro Series die Challenge Finals im Spiel Call of Duty: Mobile statt. In dem zweitägigen Event für die Region Europa treten die Top 4 Teams der Challenge Saison gegeneinander an, um ins große Finale einzuziehen.(n)</desc>
+  </programme>
+  <programme start="20250503084500 +0000" stop="20250503110000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - DTM Esports Pro Championship 2025</title>
+    <desc lang="de">Die DTM eSports Championship - 32 Top-Sim-Racer kämpfen im hochklassigen eSports-Wettbewerb um den Titel.(n)</desc>
+  </programme>
+  <programme start="20250503110000 +0000" stop="20250503155000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - eSports World Cup</title>
+    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
+  </programme>
+  <programme start="20250503155000 +0000" stop="20250503200000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - ESL Event</title>
+    <desc lang="de">Im Juli finden im Rahmen der Snapdragon Pro Series die Challenge Finals im Spiel Call of Duty: Mobile statt. In dem zweitägigen Event für die Region Europa treten die Top 4 Teams der Challenge Saison gegeneinander an, um ins große Finale einzuziehen.(n)</desc>
+  </programme>
+  <programme start="20250503200000 +0000" stop="20250504003500 +0000" channel="eSportsONE">
+    <title lang="de">eSports - ESL Event</title>
+    <desc lang="de">Beim legendären eSports-Turnier in Polen treten vom 9. bis 11. Februar in der Spodek Arena 24 der weltbesten Teams in Counter-Strike 2 gegeneinander an - und eSPORTS1 ist live dabei.(n)</desc>
+  </programme>
+  <programme start="20250504003500 +0000" stop="20250504052500 +0000" channel="eSportsONE">
+    <title lang="de">eSports - eSports World Cup</title>
+    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
+  </programme>
+  <programme start="20250504052500 +0000" stop="20250504093500 +0000" channel="eSportsONE">
+    <title lang="de">eSports - ESL Event</title>
+    <desc lang="de">Im Juli finden im Rahmen der Snapdragon Pro Series die Challenge Finals im Spiel Call of Duty: Mobile statt. In dem zweitägigen Event für die Region Europa treten die Top 4 Teams der Challenge Saison gegeneinander an, um ins große Finale einzuziehen.(n)</desc>
+  </programme>
+  <programme start="20250504093500 +0000" stop="20250504142000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - eSports World Cup</title>
+    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
+  </programme>
+  <programme start="20250504142000 +0000" stop="20250504173000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - ESL Event</title>
+    <desc lang="de">Beim legendären eSports-Turnier in Polen treten vom 9. bis 11. Februar in der Spodek Arena 24 der weltbesten Teams in Counter-Strike 2 gegeneinander an - und eSPORTS1 ist live dabei.(n)</desc>
+  </programme>
+  <programme start="20250504173000 +0000" stop="20250504200500 +0000" channel="eSportsONE">
+    <title lang="de">eSports - ESL Event</title>
+    <desc lang="de">Beim legendären eSports-Turnier in Polen treten vom 9. bis 11. Februar in der Spodek Arena 24 der weltbesten Teams in Counter-Strike 2 gegeneinander an - und eSPORTS1 ist live dabei.(n)</desc>
+  </programme>
+  <programme start="20250504200500 +0000" stop="20250504213500 +0000" channel="eSportsONE">
+    <title lang="de">eSports - DTM Esports Pro Championship 2025</title>
+    <desc lang="de">Die DTM eSports Championship - 32 Top-Sim-Racer kämpfen im hochklassigen eSports-Wettbewerb um den Titel.(n)</desc>
+  </programme>
+  <programme start="20250504213500 +0000" stop="20250505022000 +0000" channel="eSportsONE">
+    <title lang="de">eSports - eSports World Cup</title>
+    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
+  </programme>
+  <programme start="20250503001000 +0300" stop="20250503020000 +0300" channel="Star Movies">
+    <title lang="ar">Water for Elephants</title>
+    <title lang="ar">فيلم
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503020000 +0300" stop="20250503034500 +0300" channel="Star Movies">
+    <title lang="ar">Rebel in the Rye</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503034500 +0300" stop="20250503051500 +0300" channel="Star Movies">
+    <title lang="ar">Good Luck to You, Leo Grande</title>
+    <title lang="ar">فيلم
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503051500 +0300" stop="20250503070500 +0300" channel="Star Movies">
+    <title lang="ar">Boston Strangler</title>
+    <title lang="ar">فيلم
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503070500 +0300" stop="20250503084000 +0300" channel="Star Movies">
+    <title lang="ar">Tigerland</title>
+    <title lang="ar">فيلم
+               (2000)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503084000 +0300" stop="20250503102000 +0300" channel="Star Movies">
+    <title lang="ar">Second Act</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503102000 +0300" stop="20250503121000 +0300" channel="Star Movies">
+    <title lang="ar">Big Mamma's House 2</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503121000 +0300" stop="20250503140000 +0300" channel="Star Movies">
+    <title lang="ar">Last Vegas</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503140000 +0300" stop="20250503160000 +0300" channel="Star Movies">
+    <title lang="ar">Don't Say a Word</title>
+    <title lang="ar">فيلم
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503160000 +0300" stop="20250503182000 +0300" channel="Star Movies">
+    <title lang="ar">Wall Street: Money Never Sleeps</title>
+    <title lang="ar">فيلم
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503182000 +0300" stop="20250503205000 +0300" channel="Star Movies">
+    <title lang="ar">L.A. Confidential</title>
+    <title lang="ar">فيلم
+               (1997)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503205000 +0300" stop="20250503224500 +0300" channel="Star Movies">
+    <title lang="ar">Boston Strangler</title>
+    <title lang="ar">فيلم
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503224500 +0300" stop="20250504003000 +0300" channel="Star Movies">
+    <title lang="ar">Rebel in the Rye</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250503233000 +0300" stop="20250504010000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Archenemy</title>
+    <title lang="ar">فيلم
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
   </programme>
 </tv>
