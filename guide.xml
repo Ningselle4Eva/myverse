@@ -54,11 +54,6 @@
     <display-name lang="es">tooncast.mx</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="eSportsONE">
-    <display-name lang="de">esportsone.de</display-name>
-    <icon src="http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.pngmagentatv" />
-    <url>http://www.magentatv.de</url>
-  </channel>
   <channel id="Star Movies">
     <display-name lang="ar">Star Movies</display-name>
     <url>http://www.elcinema.com</url>
@@ -66,6 +61,21 @@
   <channel id="FOX ACTION MOVIES">
     <display-name lang="ar">FOX ACTION MOVIES</display-name>
     <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Curiosity">
+    <display-name lang="id">curiositychannel.id</display-name>
+    <icon src="https://images.indihometv.com/assets/88grey_CURIOSITY_2025_03_17_15_29_20.png" />
+    <url>http://www.indihometv.com</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="id">studiouniversal.id</display-name>
+    <icon src="https://images.indihometv.com/assets/88grey_STUDIOUNIVERSAL_2025_03_17_14_57_23.png" />
+    <url>http://www.indihometv.com</url>
+  </channel>
+  <channel id="Cinema World">
+    <display-name lang="id">cinemaworld.id</display-name>
+    <icon src="https://images.indihometv.com/assets/88grey_CINEMAWORLD_2025_03_17_14_53_08.png" />
+    <url>http://www.indihometv.com</url>
   </channel>
   <programme start="20250503001000 -0600" stop="20250503010000 -0600" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
@@ -334,67 +344,70 @@
   <programme start="20250503235000 -0600" stop="20250504001000 -0600" channel="Canal Comedy Central (México)">
     <title lang="es">El vecindario</title>
   </programme>
-  <programme start="20250503002000 -0600" stop="20250503014000 -0600" channel="Canal Paramount Channel (México)">
-    <title lang="es">Ozzy Rápido y Peludo</title>
+  <programme start="20250503003500 -0600" stop="20250503021000 -0600" channel="Canal Paramount Channel (México)">
+    <title lang="es">Ozzy, Rápido y Peludo</title>
   </programme>
-  <programme start="20250503014000 -0600" stop="20250503032000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503021000 -0600" stop="20250503034000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">El Refugio</title>
   </programme>
-  <programme start="20250503032000 -0600" stop="20250503051500 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503034000 -0600" stop="20250503052000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Obsesión Perfecta</title>
   </programme>
-  <programme start="20250503051500 -0600" stop="20250503072000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503052000 -0600" stop="20250503072500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Atrapados</title>
   </programme>
-  <programme start="20250503072000 -0600" stop="20250503084000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503072500 -0600" stop="20250503085500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">La casa silenciosa</title>
   </programme>
-  <programme start="20250503084000 -0600" stop="20250503104500 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503085500 -0600" stop="20250503114000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Petróleo sangriento</title>
   </programme>
-  <programme start="20250503104500 -0600" stop="20250503122000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503114000 -0600" stop="20250503132500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Negocios ocultos</title>
   </programme>
-  <programme start="20250503122000 -0600" stop="20250503144000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503132500 -0600" stop="20250503150500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Nunca te rindas</title>
   </programme>
-  <programme start="20250503144000 -0600" stop="20250503145500 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503150500 -0600" stop="20250503153000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">South Park</title>
   </programme>
-  <programme start="20250503145500 -0600" stop="20250503171500 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503153000 -0600" stop="20250503173000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">El libertador</title>
   </programme>
-  <programme start="20250503171500 -0600" stop="20250503174000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503173000 -0600" stop="20250503175000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503174000 -0600" stop="20250503181000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503175000 -0600" stop="20250503181000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503181000 -0600" stop="20250503183000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503181000 -0600" stop="20250503183500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503183000 -0600" stop="20250503190000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503183500 -0600" stop="20250503190000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
   <programme start="20250503190000 -0600" stop="20250503200000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Paramount Soundtrack</title>
   </programme>
-  <programme start="20250503200000 -0600" stop="20250503210000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503200000 -0600" stop="20250503205500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Paramount Soundtrack</title>
   </programme>
-  <programme start="20250503210000 -0600" stop="20250503213000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503205500 -0600" stop="20250503212000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503213000 -0600" stop="20250503220000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503212000 -0600" stop="20250503214500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503220000 -0600" stop="20250503223000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503214500 -0600" stop="20250503221000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503223000 -0600" stop="20250503225500 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503221000 -0600" stop="20250503223500 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Ridiculousness</title>
   </programme>
-  <programme start="20250503225500 -0600" stop="20250504002000 -0600" channel="Canal Paramount Channel (México)">
+  <programme start="20250503223500 -0600" stop="20250503225500 -0600" channel="Canal Paramount Channel (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20250503225500 -0600" stop="20250504001000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Los Padrinos Mágicos Paraiso</title>
   </programme>
   <programme start="20250503020000 -0600" stop="20250503043700 -0600" channel="Canal HBO 2 (México)">
@@ -460,16 +473,19 @@
   <programme start="20250503150500 -0600" stop="20250503170000 -0600" channel="Canal HBO Pop">
     <title lang="es">The Persian Version</title>
   </programme>
-  <programme start="20250503170000 -0600" stop="20250503184000 -0600" channel="Canal HBO Pop">
+  <programme start="20250503170000 -0600" stop="20250503180000 -0600" channel="Canal HBO Pop">
     <title lang="es">Mama's Boy</title>
   </programme>
-  <programme start="20250503184000 -0600" stop="20250503205500 -0600" channel="Canal HBO Pop">
+  <programme start="20250503180000 -0600" stop="20250503184500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Last week tonight</title>
+  </programme>
+  <programme start="20250503184500 -0600" stop="20250503210000 -0600" channel="Canal HBO Pop">
     <title lang="es">Simplemente no te quiere</title>
   </programme>
-  <programme start="20250503205500 -0600" stop="20250503225500 -0600" channel="Canal HBO Pop">
+  <programme start="20250503210000 -0600" stop="20250503230000 -0600" channel="Canal HBO Pop">
     <title lang="es">Barbie</title>
   </programme>
-  <programme start="20250503225500 -0600" stop="20250504004500 -0600" channel="Canal HBO Pop">
+  <programme start="20250503230000 -0600" stop="20250504005000 -0600" channel="Canal HBO Pop">
     <title lang="es">Click Perdiendo el Control</title>
   </programme>
   <programme start="20250503011000 -0600" stop="20250503034700 -0600" channel="Canal HBO Xtreme">
@@ -544,83 +560,86 @@
   <programme start="20250503224000 -0600" stop="20250504003500 -0600" channel="Canal HBO Plus Oeste">
     <title lang="es">Dampyr</title>
   </programme>
-  <programme start="20250503005500 -0600" stop="20250503023800 -0600" channel="Canal Space (México)">
+  <programme start="20250503010700 -0600" stop="20250503024700 -0600" channel="Canal Space (México)">
     <title lang="es">Rambo</title>
   </programme>
-  <programme start="20250503023800 -0600" stop="20250503042600 -0600" channel="Canal Space (México)">
+  <programme start="20250503024700 -0600" stop="20250503043300 -0600" channel="Canal Space (México)">
     <title lang="es">Rambo II</title>
   </programme>
-  <programme start="20250503042600 -0600" stop="20250503061400 -0600" channel="Canal Space (México)">
+  <programme start="20250503043300 -0600" stop="20250503061800 -0600" channel="Canal Space (México)">
     <title lang="es">Rambo III</title>
   </programme>
-  <programme start="20250503061400 -0600" stop="20250503075100 -0600" channel="Canal Space (México)">
+  <programme start="20250503061800 -0600" stop="20250503075200 -0600" channel="Canal Space (México)">
     <title lang="es">Cobra</title>
   </programme>
-  <programme start="20250503075100 -0600" stop="20250503095500 -0600" channel="Canal Space (México)">
-    <title lang="es">Jack el cazagigantes</title>
+  <programme start="20250503075200 -0600" stop="20250503095600 -0600" channel="Canal Space (México)">
+    <title lang="es">Jack El Cazagigantes</title>
   </programme>
-  <programme start="20250503095500 -0600" stop="20250503120000 -0600" channel="Canal Space (México)">
+  <programme start="20250503095600 -0600" stop="20250503120000 -0600" channel="Canal Space (México)">
     <title lang="es">Robin Hood</title>
   </programme>
-  <programme start="20250503120000 -0600" stop="20250503145100 -0600" channel="Canal Space (México)">
+  <programme start="20250503120000 -0600" stop="20250503144800 -0600" channel="Canal Space (México)">
     <title lang="es">Doctor Sueño</title>
   </programme>
-  <programme start="20250503145100 -0600" stop="20250503162800 -0600" channel="Canal Space (México)">
+  <programme start="20250503144800 -0600" stop="20250503162300 -0600" channel="Canal Space (México)">
     <title lang="es">Jigsaw: El Juego Continúa</title>
   </programme>
-  <programme start="20250503162800 -0600" stop="20250503182400 -0600" channel="Canal Space (México)">
+  <programme start="20250503162300 -0600" stop="20250503181200 -0600" channel="Canal Space (México)">
     <title lang="es">El Conjuro</title>
   </programme>
-  <programme start="20250503182400 -0600" stop="20250503200000 -0600" channel="Canal Space (México)">
-    <title lang="es">Saint Maud</title>
+  <programme start="20250503181200 -0600" stop="20250503200000 -0600" channel="Canal Space (México)">
+    <title lang="es">El gran maestro 4</title>
   </programme>
-  <programme start="20250503200000 -0600" stop="20250503210000 -0600" channel="Canal Space (México)">
+  <programme start="20250503200000 -0600" stop="20250503210300 -0600" channel="Canal Space (México)">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250503210000 -0600" stop="20250503224000 -0600" channel="Canal Space (México)">
+  <programme start="20250503210300 -0600" stop="20250503224200 -0600" channel="Canal Space (México)">
     <title lang="es">Bent</title>
   </programme>
-  <programme start="20250503224000 -0600" stop="20250504002900 -0600" channel="Canal Space (México)">
+  <programme start="20250503224200 -0600" stop="20250504002900 -0600" channel="Canal Space (México)">
     <title lang="es">Maximo riesgo</title>
   </programme>
-  <programme start="20250503013000 -0600" stop="20250503031500 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503001100 -0600" stop="20250503015600 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Hitman: Agente 47</title>
+  </programme>
+  <programme start="20250503015600 -0600" stop="20250503034500 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Beginners así se siente el a</title>
   </programme>
-  <programme start="20250503031500 -0600" stop="20250503051500 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503034500 -0600" stop="20250503054000 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">¿Qué te juegas?</title>
   </programme>
-  <programme start="20250503051500 -0600" stop="20250503072200 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503054000 -0600" stop="20250503075400 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Una aventura extraordinaria</title>
   </programme>
-  <programme start="20250503072200 -0600" stop="20250503091500 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503075400 -0600" stop="20250503093900 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Cómo Entrenar a tu Dragón</title>
   </programme>
-  <programme start="20250503091500 -0600" stop="20250503120000 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503093900 -0600" stop="20250503120000 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Una aventura extraordinaria</title>
   </programme>
-  <programme start="20250503120000 -0600" stop="20250503140000 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503120000 -0600" stop="20250503140500 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Búsqueda Implacable 3</title>
   </programme>
-  <programme start="20250503140000 -0600" stop="20250503154500 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503140500 -0600" stop="20250503154700 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Stuber: Locos al Volante</title>
   </programme>
-  <programme start="20250503154500 -0600" stop="20250503173000 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503154700 -0600" stop="20250503170700 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Welcome to Sudden Death</title>
   </programme>
-  <programme start="20250503173000 -0600" stop="20250503210000 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503170700 -0600" stop="20250503185000 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Un Don Excepcional</title>
   </programme>
-  <programme start="20250503210000 -0600" stop="20250503213000 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503185000 -0600" stop="20250503203300 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Miamor perdido</title>
+  </programme>
+  <programme start="20250503203300 -0600" stop="20250503210000 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Programación Especial</title>
   </programme>
-  <programme start="20250503213000 -0600" stop="20250503220000 -0600" channel="Canal Cinecanal (México)">
-    <title lang="es">Programación Especial</title>
-  </programme>
-  <programme start="20250503220000 -0600" stop="20250503234500 -0600" channel="Canal Cinecanal (México)">
+  <programme start="20250503210000 -0600" stop="20250503225200 -0600" channel="Canal Cinecanal (México)">
     <title lang="es">Un Don Excepcional</title>
   </programme>
-  <programme start="20250503234500 -0600" stop="20250504015200 -0600" channel="Canal Cinecanal (México)">
-    <title lang="es">Divaldo Franco</title>
+  <programme start="20250503225200 -0600" stop="20250504005100 -0600" channel="Canal Cinecanal (México)">
+    <title lang="es">Programación Especial</title>
   </programme>
   <programme start="20250503003300 -0600" stop="20250503012800 -0600" channel="Canal History 2 (México)">
     <title lang="es">Francisco, el jesuita</title>
@@ -703,154 +722,327 @@
   <programme start="20250503230700 -0600" stop="20250504000200 -0600" channel="Canal History 2 (México)">
     <title lang="es">Gigantes de la industria</title>
   </programme>
-  <programme start="20250503021500 +0000" stop="20250503052000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - eSports World Cup</title>
-    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch Rainbow Six gespielt. eSPORTS1 zeigt das Turnier mit 16 der besten Teams, die um den Sieg und ein Preisgeld von 750.000 US-Dollar für den Sieger spielen.(n)</desc>
-  </programme>
-  <programme start="20250503052000 +0000" stop="20250503084500 +0000" channel="eSportsONE">
-    <title lang="de">eSports - ESL Event</title>
-    <desc lang="de">Im Juli finden im Rahmen der Snapdragon Pro Series die Challenge Finals im Spiel Call of Duty: Mobile statt. In dem zweitägigen Event für die Region Europa treten die Top 4 Teams der Challenge Saison gegeneinander an, um ins große Finale einzuziehen.(n)</desc>
-  </programme>
-  <programme start="20250503084500 +0000" stop="20250503110000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - DTM Esports Pro Championship 2025</title>
-    <desc lang="de">Die DTM eSports Championship - 32 Top-Sim-Racer kämpfen im hochklassigen eSports-Wettbewerb um den Titel.(n)</desc>
-  </programme>
-  <programme start="20250503110000 +0000" stop="20250503155000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - eSports World Cup</title>
-    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
-  </programme>
-  <programme start="20250503155000 +0000" stop="20250503200000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - ESL Event</title>
-    <desc lang="de">Im Juli finden im Rahmen der Snapdragon Pro Series die Challenge Finals im Spiel Call of Duty: Mobile statt. In dem zweitägigen Event für die Region Europa treten die Top 4 Teams der Challenge Saison gegeneinander an, um ins große Finale einzuziehen.(n)</desc>
-  </programme>
-  <programme start="20250503200000 +0000" stop="20250504003500 +0000" channel="eSportsONE">
-    <title lang="de">eSports - ESL Event</title>
-    <desc lang="de">Beim legendären eSports-Turnier in Polen treten vom 9. bis 11. Februar in der Spodek Arena 24 der weltbesten Teams in Counter-Strike 2 gegeneinander an - und eSPORTS1 ist live dabei.(n)</desc>
-  </programme>
-  <programme start="20250504003500 +0000" stop="20250504052500 +0000" channel="eSportsONE">
-    <title lang="de">eSports - eSports World Cup</title>
-    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
-  </programme>
-  <programme start="20250504052500 +0000" stop="20250504093500 +0000" channel="eSportsONE">
-    <title lang="de">eSports - ESL Event</title>
-    <desc lang="de">Im Juli finden im Rahmen der Snapdragon Pro Series die Challenge Finals im Spiel Call of Duty: Mobile statt. In dem zweitägigen Event für die Region Europa treten die Top 4 Teams der Challenge Saison gegeneinander an, um ins große Finale einzuziehen.(n)</desc>
-  </programme>
-  <programme start="20250504093500 +0000" stop="20250504142000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - eSports World Cup</title>
-    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
-  </programme>
-  <programme start="20250504142000 +0000" stop="20250504173000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - ESL Event</title>
-    <desc lang="de">Beim legendären eSports-Turnier in Polen treten vom 9. bis 11. Februar in der Spodek Arena 24 der weltbesten Teams in Counter-Strike 2 gegeneinander an - und eSPORTS1 ist live dabei.(n)</desc>
-  </programme>
-  <programme start="20250504173000 +0000" stop="20250504200500 +0000" channel="eSportsONE">
-    <title lang="de">eSports - ESL Event</title>
-    <desc lang="de">Beim legendären eSports-Turnier in Polen treten vom 9. bis 11. Februar in der Spodek Arena 24 der weltbesten Teams in Counter-Strike 2 gegeneinander an - und eSPORTS1 ist live dabei.(n)</desc>
-  </programme>
-  <programme start="20250504200500 +0000" stop="20250504213500 +0000" channel="eSportsONE">
-    <title lang="de">eSports - DTM Esports Pro Championship 2025</title>
-    <desc lang="de">Die DTM eSports Championship - 32 Top-Sim-Racer kämpfen im hochklassigen eSports-Wettbewerb um den Titel.(n)</desc>
-  </programme>
-  <programme start="20250504213500 +0000" stop="20250505022000 +0000" channel="eSportsONE">
-    <title lang="de">eSports - eSports World Cup</title>
-    <desc lang="de">Im Rahmen des Esports World Cups im saudi-arabischen Riyadh wird auch League of Legends gespielt. eSPORTS1 zeigt das Turnier mit acht der besten Teams, die um den Sieg und ein Preisgeld von 400.000 US-Dollar für den Sieger spielen.(n)</desc>
-  </programme>
-  <programme start="20250503001000 +0300" stop="20250503020000 +0300" channel="Star Movies">
-    <title lang="ar">Water for Elephants</title>
-    <title lang="ar">فيلم
-               (2011)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250503020000 +0300" stop="20250503034500 +0300" channel="Star Movies">
-    <title lang="ar">Rebel in the Rye</title>
-    <title lang="ar">فيلم
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250503034500 +0300" stop="20250503051500 +0300" channel="Star Movies">
-    <title lang="ar">Good Luck to You, Leo Grande</title>
-    <title lang="ar">فيلم
-               (2022)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250503051500 +0300" stop="20250503070500 +0300" channel="Star Movies">
-    <title lang="ar">Boston Strangler</title>
-    <title lang="ar">فيلم
-               (2023)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250503070500 +0300" stop="20250503084000 +0300" channel="Star Movies">
+  <programme start="20250504070500 +0300" stop="20250504084000 +0300" channel="Star Movies">
     <title lang="ar">Tigerland</title>
     <title lang="ar">فيلم
                (2000)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503084000 +0300" stop="20250503102000 +0300" channel="Star Movies">
+  <programme start="20250504084000 +0300" stop="20250504102000 +0300" channel="Star Movies">
     <title lang="ar">Second Act</title>
     <title lang="ar">فيلم
                (2018)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503102000 +0300" stop="20250503121000 +0300" channel="Star Movies">
+  <programme start="20250504102000 +0300" stop="20250504121000 +0300" channel="Star Movies">
     <title lang="ar">Big Mamma's House 2</title>
     <title lang="ar">فيلم
                (2006)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503121000 +0300" stop="20250503140000 +0300" channel="Star Movies">
+  <programme start="20250504121000 +0300" stop="20250504140000 +0300" channel="Star Movies">
     <title lang="ar">Last Vegas</title>
     <title lang="ar">فيلم
                (2013)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503140000 +0300" stop="20250503160000 +0300" channel="Star Movies">
+  <programme start="20250504140000 +0300" stop="20250504160000 +0300" channel="Star Movies">
     <title lang="ar">Don't Say a Word</title>
     <title lang="ar">فيلم
                (2001)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503160000 +0300" stop="20250503182000 +0300" channel="Star Movies">
+  <programme start="20250504160000 +0300" stop="20250504182000 +0300" channel="Star Movies">
     <title lang="ar">Wall Street: Money Never Sleeps</title>
     <title lang="ar">فيلم
                (2010)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503182000 +0300" stop="20250503205000 +0300" channel="Star Movies">
+  <programme start="20250504182000 +0300" stop="20250504205000 +0300" channel="Star Movies">
     <title lang="ar">L.A. Confidential</title>
     <title lang="ar">فيلم
                (1997)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503205000 +0300" stop="20250503224500 +0300" channel="Star Movies">
+  <programme start="20250504205000 +0300" stop="20250504224500 +0300" channel="Star Movies">
     <title lang="ar">Boston Strangler</title>
     <title lang="ar">فيلم
                (2023)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503224500 +0300" stop="20250504003000 +0300" channel="Star Movies">
+  <programme start="20250504224500 +0300" stop="20250505003000 +0300" channel="Star Movies">
     <title lang="ar">Rebel in the Rye</title>
     <title lang="ar">فيلم
                (2017)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250503233000 +0300" stop="20250504010000 +0300" channel="FOX ACTION MOVIES">
+  <programme start="20250504071500 +0300" stop="20250504080500 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">MI-5</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504080500 +0300" stop="20250504100000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Mr &amp; Mrs. Smith</title>
+    <title lang="ar">فيلم
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504100000 +0300" stop="20250504120000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">The Sentinel</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504120000 +0300" stop="20250504135000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Blood and Bone</title>
+    <title lang="ar">فيلم
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504135000 +0300" stop="20250504153000 +0300" channel="FOX ACTION MOVIES">
     <title lang="ar">Archenemy</title>
     <title lang="ar">فيلم
                (2020)</title>
     <title lang="ar">مفضل
             ذكرني</title>
+  </programme>
+  <programme start="20250504153000 +0300" stop="20250504173000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Mr &amp; Mrs. Smith</title>
+    <title lang="ar">فيلم
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504173000 +0300" stop="20250504190000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Robin Hood: The Rebellion</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504190000 +0300" stop="20250504200000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Angel of Death</title>
+    <title lang="ar">فيلم
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504200000 +0300" stop="20250504211000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">MI-5</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504211000 +0300" stop="20250504231000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">Our Lady of the Nile</title>
+    <title lang="ar">فيلم
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504231000 +0300" stop="20250505010000 +0300" channel="FOX ACTION MOVIES">
+    <title lang="ar">War on Everyone</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250504000000 +0700" stop="20250504003000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504003000 +0700" stop="20250504010000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504010000 +0700" stop="20250504020000 +0700" channel="Curiosity">
+    <title lang="id">History Of Life On Earth</title>
+  </programme>
+  <programme start="20250504020000 +0700" stop="20250504030000 +0700" channel="Curiosity">
+    <title lang="id">Animals That Changed History</title>
+  </programme>
+  <programme start="20250504030000 +0700" stop="20250504040000 +0700" channel="Curiosity">
+    <title lang="id">Animals Of Thanksgiving</title>
+  </programme>
+  <programme start="20250504040000 +0700" stop="20250504050000 +0700" channel="Curiosity">
+    <title lang="id">The Humboldt Current</title>
+  </programme>
+  <programme start="20250504050000 +0700" stop="20250504053000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504053000 +0700" stop="20250504060000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504060000 +0700" stop="20250504063000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504063000 +0700" stop="20250504070000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504070000 +0700" stop="20250504080000 +0700" channel="Curiosity">
+    <title lang="id">History Of Life On Earth</title>
+  </programme>
+  <programme start="20250504080000 +0700" stop="20250504090000 +0700" channel="Curiosity">
+    <title lang="id">Animals That Changed History</title>
+  </programme>
+  <programme start="20250504090000 +0700" stop="20250504100000 +0700" channel="Curiosity">
+    <title lang="id">Animals Of Thanksgiving</title>
+  </programme>
+  <programme start="20250504100000 +0700" stop="20250504110000 +0700" channel="Curiosity">
+    <title lang="id">The Humboldt Current</title>
+  </programme>
+  <programme start="20250504110000 +0700" stop="20250504113000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504113000 +0700" stop="20250504120000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504120000 +0700" stop="20250504123000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504123000 +0700" stop="20250504130000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504130000 +0700" stop="20250504140000 +0700" channel="Curiosity">
+    <title lang="id">History Of Life On Earth</title>
+  </programme>
+  <programme start="20250504140000 +0700" stop="20250504150000 +0700" channel="Curiosity">
+    <title lang="id">Animals That Changed History</title>
+  </programme>
+  <programme start="20250504150000 +0700" stop="20250504160000 +0700" channel="Curiosity">
+    <title lang="id">Animals Of Thanksgiving</title>
+  </programme>
+  <programme start="20250504160000 +0700" stop="20250504170000 +0700" channel="Curiosity">
+    <title lang="id">The Humboldt Current</title>
+  </programme>
+  <programme start="20250504170000 +0700" stop="20250504173000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504173000 +0700" stop="20250504180000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504180000 +0700" stop="20250504183000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504183000 +0700" stop="20250504190000 +0700" channel="Curiosity">
+    <title lang="id">The Secret Lives Of Big Cats</title>
+  </programme>
+  <programme start="20250504190000 +0700" stop="20250504200500 +0700" channel="Curiosity">
+    <title lang="id">History Of Life On Earth</title>
+  </programme>
+  <programme start="20250504200500 +0700" stop="20250504203000 +0700" channel="Curiosity">
+    <title lang="id">The Demolition Man</title>
+  </programme>
+  <programme start="20250504203000 +0700" stop="20250504210000 +0700" channel="Curiosity">
+    <title lang="id">The Demolition Man</title>
+  </programme>
+  <programme start="20250504210000 +0700" stop="20250504220000 +0700" channel="Curiosity">
+    <title lang="id">Ultimate Processes</title>
+  </programme>
+  <programme start="20250504220000 +0700" stop="20250504230000 +0700" channel="Curiosity">
+    <title lang="id">Ultimate Processes</title>
+  </programme>
+  <programme start="20250504230000 +0700" stop="20250504233000 +0700" channel="Curiosity">
+    <title lang="id">Tech Toys</title>
+  </programme>
+  <programme start="20250504233000 +0700" stop="20250505000000 +0700" channel="Curiosity">
+    <title lang="id">Tech Toys</title>
+  </programme>
+  <programme start="20250504013000 +0700" stop="20250504033000 +0700" channel="Studio Universal">
+    <title lang="id">Eternal Sunshine Of The Spotless Mind</title>
+  </programme>
+  <programme start="20250504033000 +0700" stop="20250504050000 +0700" channel="Studio Universal">
+    <title lang="id">Shrek 2 (2004)</title>
+  </programme>
+  <programme start="20250504050000 +0700" stop="20250504064500 +0700" channel="Studio Universal">
+    <title lang="id">Mama (2013)</title>
+  </programme>
+  <programme start="20250504064500 +0700" stop="20250504085500 +0700" channel="Studio Universal">
+    <title lang="id">Parenthood</title>
+  </programme>
+  <programme start="20250504085500 +0700" stop="20250504110000 +0700" channel="Studio Universal">
+    <title lang="id">47 Ronin (2013)</title>
+  </programme>
+  <programme start="20250504110000 +0700" stop="20250504124500 +0700" channel="Studio Universal">
+    <title lang="id">Brewster's Millions</title>
+  </programme>
+  <programme start="20250504124500 +0700" stop="20250504144000 +0700" channel="Studio Universal">
+    <title lang="id">American Dreamz</title>
+  </programme>
+  <programme start="20250504144000 +0700" stop="20250504162500 +0700" channel="Studio Universal">
+    <title lang="id">Abominable (2019)</title>
+  </programme>
+  <programme start="20250504162500 +0700" stop="20250504175500 +0700" channel="Studio Universal">
+    <title lang="id">Shrek 2 (2004)</title>
+  </programme>
+  <programme start="20250504175500 +0700" stop="20250504195500 +0700" channel="Studio Universal">
+    <title lang="id">Us (2019)</title>
+  </programme>
+  <programme start="20250504195500 +0700" stop="20250504215000 +0700" channel="Studio Universal">
+    <title lang="id">The Adjustment Bureau</title>
+  </programme>
+  <programme start="20250504215000 +0700" stop="20250504234500 +0700" channel="Studio Universal">
+    <title lang="id">One Day</title>
+  </programme>
+  <programme start="20250504234500 +0700" stop="20250505013000 +0700" channel="Studio Universal">
+    <title lang="id">Blues Brothers 2000</title>
+  </programme>
+  <programme start="20250504012500 +0700" stop="20250504034500 +0700" channel="Cinema World">
+    <title lang="id">15 Years</title>
+  </programme>
+  <programme start="20250504034500 +0700" stop="20250504053500 +0700" channel="Cinema World">
+    <title lang="id">Cloud Under The Roof</title>
+  </programme>
+  <programme start="20250504053500 +0700" stop="20250504071500 +0700" channel="Cinema World">
+    <title lang="id">Difret</title>
+  </programme>
+  <programme start="20250504071500 +0700" stop="20250504085000 +0700" channel="Cinema World">
+    <title lang="id">Sarah Kohr: The Devils Moor</title>
+  </programme>
+  <programme start="20250504085000 +0700" stop="20250504104000 +0700" channel="Cinema World">
+    <title lang="id">Forever</title>
+  </programme>
+  <programme start="20250504104000 +0700" stop="20250504122500 +0700" channel="Cinema World">
+    <title lang="id">Oskar &amp; Lilli: Where No One Knows Us</title>
+  </programme>
+  <programme start="20250504122500 +0700" stop="20250504124500 +0700" channel="Cinema World">
+    <title lang="id">On The Way Home II</title>
+  </programme>
+  <programme start="20250504124500 +0700" stop="20250504144000 +0700" channel="Cinema World">
+    <title lang="id">Backwards</title>
+  </programme>
+  <programme start="20250504144000 +0700" stop="20250504165000 +0700" channel="Cinema World">
+    <title lang="id">For The Birds</title>
+  </programme>
+  <programme start="20250504165000 +0700" stop="20250504183000 +0700" channel="Cinema World">
+    <title lang="id">Love At First Fight</title>
+  </programme>
+  <programme start="20250504183000 +0700" stop="20250504200000 +0700" channel="Cinema World">
+    <title lang="id">Sarah Kohr: Ward</title>
+  </programme>
+  <programme start="20250504200000 +0700" stop="20250504213000 +0700" channel="Cinema World">
+    <title lang="id">Confetti</title>
+  </programme>
+  <programme start="20250504213000 +0700" stop="20250504215000 +0700" channel="Cinema World">
+    <title lang="id">Writings On The Wall</title>
+  </programme>
+  <programme start="20250504215000 +0700" stop="20250504233000 +0700" channel="Cinema World">
+    <title lang="id">Murder in Biot</title>
+  </programme>
+  <programme start="20250504233000 +0700" stop="20250505011500 +0700" channel="Cinema World">
+    <title lang="id">Difret</title>
   </programme>
 </tv>
