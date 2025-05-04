@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="staraction-mena.njz">
-    <display-name>Star Action</display-name>
+    <display-name lang="ar">staraction-mena.njz</display-name>
   </channel>
   
   <channel id="starmovies-mena.njz">
@@ -18,6 +18,11 @@
   
   <channel id="natgeowild-mena.njz">
     <display-name>National Geographic Wild</display-name>
+  </channel>
+  
+  <channel id="Curiosity.id">
+    <display-name lang="ID">Curiosity Channel</display-name>
+    <icon src="https://i.imgur.com/VqTXs9t.png" />
   </channel>
 
 <programme start="20250504002000 +0300" stop="20250504011500 +0300" channel="staraction-mena.njz"><title>Angel of Death</title></programme>
@@ -290,4 +295,789 @@
 <programme start="20250505103500 +0300" stop="20250505113000 +0300" channel="starworld-mena.njz"><title>Harry Wild</title></programme>
 <programme start="20250505113000 +0300" stop="20250505121500 +0300" channel="starworld-mena.njz"><title>The Rookie</title><desc>While Bradford, Chen, and Lopez work together to apprehend the leaders of a criminal organisation, Officer Nolan comes upon a serial murderer.</desc></programme>
 <programme start="20250505121500 +0300" stop="20250505130500 +0300" channel="starworld-mena.njz"><title>Moving Houses</title><desc>Becky, Dean and their three sons take a chance on moving their house from Auckland to Ahipara, encountering hazardous obstacles en route.</desc></programme>
+
+  <programme channel="Curiosity.id" start="20250504000000 +0800" stop="20250504003000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504003000 +0800" stop="20250504010000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504010000 +0800" stop="20250504013000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504013000 +0800" stop="20250504020000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504020000 +0800" stop="20250504030000 +0800">
+    <title lang="zh">History Of Life On Earth</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504030000 +0800" stop="20250504040000 +0800">
+    <title lang="zh">Animals That Changed History</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504040000 +0800" stop="20250504050000 +0800">
+    <title lang="zh">Animals Of Thanksgiving</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504050000 +0800" stop="20250504060000 +0800">
+    <title lang="zh">The Humboldt Current</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504060000 +0800" stop="20250504063000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504063000 +0800" stop="20250504070000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504070000 +0800" stop="20250504073000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504073000 +0800" stop="20250504080000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504080000 +0800" stop="20250504090000 +0800">
+    <title lang="zh">History Of Life On Earth</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504090000 +0800" stop="20250504100000 +0800">
+    <title lang="zh">Animals That Changed History</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504100000 +0800" stop="20250504110000 +0800">
+    <title lang="zh">Animals Of Thanksgiving</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504110000 +0800" stop="20250504120000 +0800">
+    <title lang="zh">The Humboldt Current</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504120000 +0800" stop="20250504123000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504123000 +0800" stop="20250504130000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504130000 +0800" stop="20250504133000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504133000 +0800" stop="20250504140000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504140000 +0800" stop="20250504150000 +0800">
+    <title lang="zh">History Of Life On Earth</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504150000 +0800" stop="20250504160000 +0800">
+    <title lang="zh">Animals That Changed History</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504160000 +0800" stop="20250504170000 +0800">
+    <title lang="zh">Animals Of Thanksgiving</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504170000 +0800" stop="20250504180000 +0800">
+    <title lang="zh">The Humboldt Current</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504180000 +0800" stop="20250504183000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504183000 +0800" stop="20250504190000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504190000 +0800" stop="20250504193000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504193000 +0800" stop="20250504200000 +0800">
+    <title lang="zh">The Secret Lives Of Big Cats</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504200000 +0800" stop="20250504210500 +0800">
+    <title lang="zh">History Of Life On Earth</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504210500 +0800" stop="20250504213000 +0800">
+    <title lang="zh">The Demolition Man</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504213000 +0800" stop="20250504220000 +0800">
+    <title lang="zh">The Demolition Man</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504220000 +0800" stop="20250504230000 +0800">
+    <title lang="zh">Ultimate Processes</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250504230000 +0800" stop="20250505000000 +0800">
+    <title lang="zh">Ultimate Processes</title>
+    <desc />
+    <date>20250504</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505000000 +0800" stop="20250505003000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505003000 +0800" stop="20250505010000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505010000 +0800" stop="20250505013000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505013000 +0800" stop="20250505020000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505020000 +0800" stop="20250505030000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505030000 +0800" stop="20250505040000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505040000 +0800" stop="20250505050000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505050000 +0800" stop="20250505060000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505060000 +0800" stop="20250505063000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505063000 +0800" stop="20250505070000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505070000 +0800" stop="20250505073000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505073000 +0800" stop="20250505080000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505080000 +0800" stop="20250505090000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505090000 +0800" stop="20250505100000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505100000 +0800" stop="20250505110000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505110000 +0800" stop="20250505120000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505120000 +0800" stop="20250505123000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505123000 +0800" stop="20250505130000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505130000 +0800" stop="20250505133000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505133000 +0800" stop="20250505140000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505140000 +0800" stop="20250505150000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505150000 +0800" stop="20250505160000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505160000 +0800" stop="20250505170000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505170000 +0800" stop="20250505180000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505180000 +0800" stop="20250505183000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505183000 +0800" stop="20250505190000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505190000 +0800" stop="20250505193000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505193000 +0800" stop="20250505200000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505200000 +0800" stop="20250505210000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505210000 +0800" stop="20250505220000 +0800">
+    <title lang="zh">The Science Of Success</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505220000 +0800" stop="20250505230000 +0800">
+    <title lang="zh">Dangerous Waters</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250505230000 +0800" stop="20250506000000 +0800">
+    <title lang="zh">Dangerous Waters</title>
+    <desc />
+    <date>20250505</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506000000 +0800" stop="20250506010000 +0800">
+    <title lang="zh">What's My Car Worth?</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506010000 +0800" stop="20250506013000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506013000 +0800" stop="20250506020000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506020000 +0800" stop="20250506030000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506030000 +0800" stop="20250506040000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506040000 +0800" stop="20250506050000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506050000 +0800" stop="20250506060000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506060000 +0800" stop="20250506063000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506063000 +0800" stop="20250506070000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506070000 +0800" stop="20250506073000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506073000 +0800" stop="20250506080000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506080000 +0800" stop="20250506090000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506090000 +0800" stop="20250506100000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506100000 +0800" stop="20250506110000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506110000 +0800" stop="20250506120000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506120000 +0800" stop="20250506123000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506123000 +0800" stop="20250506130000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506130000 +0800" stop="20250506133000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506133000 +0800" stop="20250506140000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506140000 +0800" stop="20250506150000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506150000 +0800" stop="20250506160000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506160000 +0800" stop="20250506170000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506170000 +0800" stop="20250506180000 +0800">
+    <title lang="zh">Speed</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506180000 +0800" stop="20250506183000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506183000 +0800" stop="20250506190000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506190000 +0800" stop="20250506193000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506193000 +0800" stop="20250506200000 +0800">
+    <title lang="zh">Tech Toys</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506200000 +0800" stop="20250506210000 +0800">
+    <title lang="zh">Science In Archaeology 3.0</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506210000 +0800" stop="20250506220000 +0800">
+    <title lang="zh">The Science Of Success</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506220000 +0800" stop="20250506230000 +0800">
+    <title lang="zh">Dangerous Waters</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250506230000 +0800" stop="20250507000000 +0800">
+    <title lang="zh">Dangerous Waters</title>
+    <desc />
+    <date>20250506</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250507000000 +0800" stop="20250507003000 +0800">
+    <title lang="zh">What's My Car Worth?</title>
+    <desc />
+    <date>20250507</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="Curiosity.id" start="20250507003000 +0800" stop="20250508000000 +0800">
+    <title lang="zh">What's My Car Worth?</title>
+    <desc />
+    <date>20250507</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
 </tv>
