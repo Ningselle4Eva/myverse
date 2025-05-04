@@ -1,81 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal Universal TV (México)">
-    <display-name lang="es">universaltv.mx</display-name>
+    <display-name lang="es">universaltv-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Comedy Central (México)">
-    <display-name lang="es">comedycentral.mx</display-name>
+    <display-name lang="es">comedycentral-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Paramount Channel (México)">
-    <display-name lang="es">paramount.mx</display-name>
+    <display-name lang="es">paramount-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO 2 (México)">
-    <display-name lang="es">hbo2.mx</display-name>
+    <display-name lang="es">hbo2-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO Pop">
-    <display-name lang="es">hbopop.mx</display-name>
+    <display-name lang="es">hbopop-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO Xtreme">
-    <display-name lang="es">hboxtreme.mx</display-name>
+    <display-name lang="es">hboxtreme-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO Plus Oeste">
-    <display-name lang="es">hbo+.mx</display-name>
+    <display-name lang="es">hbo+-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Space (México)">
-    <display-name lang="es">space.mx</display-name>
+    <display-name lang="es">space-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Cinecanal (México)">
-    <display-name lang="es">cinecanal.mx</display-name>
+    <display-name lang="es">cinecanal-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal History 2 (México)">
-    <display-name lang="es">history2.mx</display-name>
+    <display-name lang="es">history2-mx.njz</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Sony Centro">
+    <display-name lang="es">sonych-latam.njz</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cine Sony">
+    <display-name lang="es">sonymovies-latam.njz</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Tooncast">
-    <display-name lang="es">tooncast.mx</display-name>
+    <display-name lang="es">tooncast-latam.njz</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Star Movies">
-    <display-name lang="ar">Star Movies</display-name>
+    <display-name lang="ar">starmovies-mena.njz</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="FOX ACTION MOVIES">
-    <display-name lang="ar">FOX ACTION MOVIES</display-name>
+    <display-name lang="ar">staraction-mena.njz</display-name>
     <url>http://www.elcinema.com</url>
-  </channel>
-  <channel id="Curiosity">
-    <display-name lang="id">curiositychannel.id</display-name>
-    <icon src="https://images.indihometv.com/assets/88grey_CURIOSITY_2025_03_17_15_29_20.png" />
-    <url>http://www.indihometv.com</url>
-  </channel>
-  <channel id="Studio Universal">
-    <display-name lang="id">studiouniversal.id</display-name>
-    <icon src="https://images.indihometv.com/assets/88grey_STUDIOUNIVERSAL_2025_03_17_14_57_23.png" />
-    <url>http://www.indihometv.com</url>
-  </channel>
-  <channel id="Cinema World">
-    <display-name lang="id">cinemaworld.id</display-name>
-    <icon src="https://images.indihometv.com/assets/88grey_CINEMAWORLD_2025_03_17_14_53_08.png" />
-    <url>http://www.indihometv.com</url>
   </channel>
   <programme start="20250503001000 -0600" stop="20250503010000 -0600" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
@@ -722,12 +718,461 @@
   <programme start="20250503230700 -0600" stop="20250504000200 -0600" channel="Canal History 2 (México)">
     <title lang="es">Gigantes de la industria</title>
   </programme>
-  <programme start="20250504070500 +0300" stop="20250504084000 +0300" channel="Star Movies">
-    <title lang="ar">Tigerland</title>
-    <title lang="ar">فيلم
-               (2000)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
+  <programme start="20250503005500 -0600" stop="20250503012500 -0600" channel="Canal Sony Centro">
+    <title lang="es">Designing Women</title>
+  </programme>
+  <programme start="20250503012500 -0600" stop="20250503015500 -0600" channel="Canal Sony Centro">
+    <title lang="es">Designing Women</title>
+  </programme>
+  <programme start="20250503015500 -0600" stop="20250503022500 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20250503022500 -0600" stop="20250503025500 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20250503025500 -0600" stop="20250503035500 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Good Doctor</title>
+  </programme>
+  <programme start="20250503035500 -0600" stop="20250503045500 -0600" channel="Canal Sony Centro">
+    <title lang="es">Rescue me</title>
+  </programme>
+  <programme start="20250503045500 -0600" stop="20250503065500 -0600" channel="Canal Sony Centro">
+    <title lang="es">El Karate Kid 4 La Nueva Aventura</title>
+  </programme>
+  <programme start="20250503065500 -0600" stop="20250503093500 -0600" channel="Canal Sony Centro">
+    <title lang="es">Spider-Man: Sin Camino a Casa</title>
+  </programme>
+  <programme start="20250503093500 -0600" stop="20250503112000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Viaje 2 La isla misteriosa</title>
+  </programme>
+  <programme start="20250503112000 -0600" stop="20250503131000 -0600" channel="Canal Sony Centro">
+    <title lang="es">La Máscara</title>
+  </programme>
+  <programme start="20250503131000 -0600" stop="20250503145000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Una pareja explosiva 3</title>
+  </programme>
+  <programme start="20250503145000 -0600" stop="20250503152000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Designing Women</title>
+  </programme>
+  <programme start="20250503152000 -0600" stop="20250503155000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Designing Women</title>
+  </programme>
+  <programme start="20250503155000 -0600" stop="20250503162000 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20250503162000 -0600" stop="20250503165000 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20250503165000 -0600" stop="20250503175000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Clínica X</title>
+  </programme>
+  <programme start="20250503175000 -0600" stop="20250503180000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Hotel Transylvania Puppy!</title>
+  </programme>
+  <programme start="20250503180000 -0600" stop="20250503190000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Rescue me</title>
+  </programme>
+  <programme start="20250503190000 -0600" stop="20250503200000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Royal Flying Doctor Service</title>
+  </programme>
+  <programme start="20250503200000 -0600" stop="20250503210000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Royal Flying Doctor Service</title>
+  </programme>
+  <programme start="20250503210000 -0600" stop="20250503220000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Clínica X</title>
+  </programme>
+  <programme start="20250503220000 -0600" stop="20250503230000 -0600" channel="Canal Sony Centro">
+    <title lang="es">Clínica X</title>
+  </programme>
+  <programme start="20250503230000 -0600" stop="20250503233000 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20250503233000 -0600" stop="20250504000000 -0600" channel="Canal Sony Centro">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20250503011700 -0600" stop="20250503032000 -0600" channel="Canal Cine Sony">
+    <title lang="es">Pineapple express</title>
+  </programme>
+  <programme start="20250503032000 -0600" stop="20250503053500 -0600" channel="Canal Cine Sony">
+    <title lang="es">Stealth</title>
+  </programme>
+  <programme start="20250503053500 -0600" stop="20250503080000 -0600" channel="Canal Cine Sony">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20250503080000 -0600" stop="20250503100800 -0600" channel="Canal Cine Sony">
+    <title lang="es">Battle Los Angeles</title>
+  </programme>
+  <programme start="20250503100800 -0600" stop="20250503120300 -0600" channel="Canal Cine Sony">
+    <title lang="es">Passengers</title>
+  </programme>
+  <programme start="20250503120300 -0600" stop="20250503140200 -0600" channel="Canal Cine Sony">
+    <title lang="es">Battle Los Angeles</title>
+  </programme>
+  <programme start="20250503140200 -0600" stop="20250503161400 -0600" channel="Canal Cine Sony">
+    <title lang="es">A league of their own</title>
+  </programme>
+  <programme start="20250503161400 -0600" stop="20250503175100 -0600" channel="Canal Cine Sony">
+    <title lang="es">Hero Wanted</title>
+  </programme>
+  <programme start="20250503175100 -0600" stop="20250503194900 -0600" channel="Canal Cine Sony">
+    <title lang="es">The Monuments Men</title>
+  </programme>
+  <programme start="20250503194900 -0600" stop="20250503221900 -0600" channel="Canal Cine Sony">
+    <title lang="es">A few good men</title>
+  </programme>
+  <programme start="20250503221900 -0600" stop="20250504004300 -0600" channel="Canal Cine Sony">
+    <title lang="es">Fury</title>
+  </programme>
+  <programme start="20250503000200 -0600" stop="20250503001100 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503001100 -0600" stop="20250503001800 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503001800 -0600" stop="20250503002600 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503002600 -0600" stop="20250503003400 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503003400 -0600" stop="20250503010000 -0600" channel="Canal Tooncast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20250503010000 -0600" stop="20250503012200 -0600" channel="Canal Tooncast">
+    <title lang="es">Scooby-Doo! Misterios S.A.</title>
+  </programme>
+  <programme start="20250503012200 -0600" stop="20250503014800 -0600" channel="Canal Tooncast">
+    <title lang="es">Scooby-Doo! Misterios S.A.</title>
+  </programme>
+  <programme start="20250503014800 -0600" stop="20250503021000 -0600" channel="Canal Tooncast">
+    <title lang="es">¿Qué hay de nuevo Scooby Doo?</title>
+  </programme>
+  <programme start="20250503021000 -0600" stop="20250503022200 -0600" channel="Canal Tooncast">
+    <title lang="es">Los autos locos</title>
+  </programme>
+  <programme start="20250503022200 -0600" stop="20250503024800 -0600" channel="Canal Tooncast">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20250503024800 -0600" stop="20250503031500 -0600" channel="Canal Tooncast">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20250503031500 -0600" stop="20250503033700 -0600" channel="Canal Tooncast">
+    <title lang="es">Los supersónicos</title>
+  </programme>
+  <programme start="20250503033700 -0600" stop="20250503040100 -0600" channel="Canal Tooncast">
+    <title lang="es">Los supersónicos</title>
+  </programme>
+  <programme start="20250503040100 -0600" stop="20250503043000 -0600" channel="Canal Tooncast">
+    <title lang="es">Don Gato y Su Pandilla</title>
+  </programme>
+  <programme start="20250503043000 -0600" stop="20250503044100 -0600" channel="Canal Tooncast">
+    <title lang="es">Oswaldo</title>
+  </programme>
+  <programme start="20250503044100 -0600" stop="20250503045300 -0600" channel="Canal Tooncast">
+    <title lang="es">Oswaldo</title>
+  </programme>
+  <programme start="20250503045300 -0600" stop="20250503050700 -0600" channel="Canal Tooncast">
+    <title lang="es">Oswaldo</title>
+  </programme>
+  <programme start="20250503050700 -0600" stop="20250503052900 -0600" channel="Canal Tooncast">
+    <title lang="es">Generador rex</title>
+  </programme>
+  <programme start="20250503052900 -0600" stop="20250503055600 -0600" channel="Canal Tooncast">
+    <title lang="es">Generador rex</title>
+  </programme>
+  <programme start="20250503055600 -0600" stop="20250503060700 -0600" channel="Canal Tooncast">
+    <title lang="es">Krypto, el Superperro</title>
+  </programme>
+  <programme start="20250503060700 -0600" stop="20250503061900 -0600" channel="Canal Tooncast">
+    <title lang="es">Krypto, el Superperro</title>
+  </programme>
+  <programme start="20250503061900 -0600" stop="20250503063000 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503063000 -0600" stop="20250503064100 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503064100 -0600" stop="20250503065400 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503065400 -0600" stop="20250503070700 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503070700 -0600" stop="20250503071800 -0600" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20250503071800 -0600" stop="20250503073100 -0600" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20250503073100 -0600" stop="20250503073200 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503073200 -0600" stop="20250503073500 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503073500 -0600" stop="20250503073600 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503073600 -0600" stop="20250503073700 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503073700 -0600" stop="20250503074400 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503074400 -0600" stop="20250503075000 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503075000 -0600" stop="20250503081500 -0600" channel="Canal Tooncast">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20250503081500 -0600" stop="20250503084000 -0600" channel="Canal Tooncast">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20250503084000 -0600" stop="20250503085100 -0600" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+  </programme>
+  <programme start="20250503085100 -0600" stop="20250503090400 -0600" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+  </programme>
+  <programme start="20250503090400 -0600" stop="20250503091500 -0600" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20250503091500 -0600" stop="20250503092800 -0600" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20250503092800 -0600" stop="20250503093500 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503093500 -0600" stop="20250503094200 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503094200 -0600" stop="20250503094800 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503094800 -0600" stop="20250503095500 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503095500 -0600" stop="20250503100400 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503100400 -0600" stop="20250503101100 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503101100 -0600" stop="20250503101700 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503101700 -0600" stop="20250503102600 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503102600 -0600" stop="20250503103300 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503103300 -0600" stop="20250503104000 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503104000 -0600" stop="20250503104700 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503104700 -0600" stop="20250503105600 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503105600 -0600" stop="20250503110300 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503110300 -0600" stop="20250503111000 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503111000 -0600" stop="20250503111900 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503111900 -0600" stop="20250503112900 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Looney Tunes</title>
+  </programme>
+  <programme start="20250503112900 -0600" stop="20250503114100 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Looney Tunes</title>
+  </programme>
+  <programme start="20250503114100 -0600" stop="20250503114700 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503114700 -0600" stop="20250503115600 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503115600 -0600" stop="20250503120600 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503120600 -0600" stop="20250503121300 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503121300 -0600" stop="20250503122000 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503122000 -0600" stop="20250503122900 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503122900 -0600" stop="20250503125500 -0600" channel="Canal Tooncast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20250503125500 -0600" stop="20250503131600 -0600" channel="Canal Tooncast">
+    <title lang="es">Scooby-Doo! Misterios S.A.</title>
+  </programme>
+  <programme start="20250503131600 -0600" stop="20250503134200 -0600" channel="Canal Tooncast">
+    <title lang="es">Scooby-Doo! Misterios S.A.</title>
+  </programme>
+  <programme start="20250503134200 -0600" stop="20250503140200 -0600" channel="Canal Tooncast">
+    <title lang="es">¿Qué hay de nuevo Scooby Doo?</title>
+  </programme>
+  <programme start="20250503140200 -0600" stop="20250503142400 -0600" channel="Canal Tooncast">
+    <title lang="es">¿Qué hay de nuevo Scooby Doo?</title>
+  </programme>
+  <programme start="20250503142400 -0600" stop="20250503143600 -0600" channel="Canal Tooncast">
+    <title lang="es">Los autos locos</title>
+  </programme>
+  <programme start="20250503143600 -0600" stop="20250503150200 -0600" channel="Canal Tooncast">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20250503150200 -0600" stop="20250503152900 -0600" channel="Canal Tooncast">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20250503152900 -0600" stop="20250503155400 -0600" channel="Canal Tooncast">
+    <title lang="es">Los supersónicos</title>
+  </programme>
+  <programme start="20250503155400 -0600" stop="20250503162200 -0600" channel="Canal Tooncast">
+    <title lang="es">Don Gato y Su Pandilla</title>
+  </programme>
+  <programme start="20250503162200 -0600" stop="20250503163400 -0600" channel="Canal Tooncast">
+    <title lang="es">Oswaldo</title>
+  </programme>
+  <programme start="20250503163400 -0600" stop="20250503164500 -0600" channel="Canal Tooncast">
+    <title lang="es">Oswaldo</title>
+  </programme>
+  <programme start="20250503164500 -0600" stop="20250503170000 -0600" channel="Canal Tooncast">
+    <title lang="es">Oswaldo</title>
+  </programme>
+  <programme start="20250503170000 -0600" stop="20250503172200 -0600" channel="Canal Tooncast">
+    <title lang="es">Generador rex</title>
+  </programme>
+  <programme start="20250503172200 -0600" stop="20250503174900 -0600" channel="Canal Tooncast">
+    <title lang="es">Generador rex</title>
+  </programme>
+  <programme start="20250503174900 -0600" stop="20250503175900 -0600" channel="Canal Tooncast">
+    <title lang="es">Krypto, el Superperro</title>
+  </programme>
+  <programme start="20250503175900 -0600" stop="20250503181100 -0600" channel="Canal Tooncast">
+    <title lang="es">Krypto, el Superperro</title>
+  </programme>
+  <programme start="20250503181100 -0600" stop="20250503182300 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503182300 -0600" stop="20250503183400 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503183400 -0600" stop="20250503184700 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503184700 -0600" stop="20250503185400 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503185400 -0600" stop="20250503190800 -0600" channel="Canal Tooncast">
+    <title lang="es">Escuadrón del Tiempo</title>
+  </programme>
+  <programme start="20250503190800 -0600" stop="20250503191800 -0600" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20250503191800 -0600" stop="20250503193100 -0600" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20250503193100 -0600" stop="20250503193200 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503193200 -0600" stop="20250503193300 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503193300 -0600" stop="20250503193900 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503193900 -0600" stop="20250503194200 -0600" channel="Canal Tooncast">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20250503194200 -0600" stop="20250503200600 -0600" channel="Canal Tooncast">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20250503200600 -0600" stop="20250503203100 -0600" channel="Canal Tooncast">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20250503203100 -0600" stop="20250503204200 -0600" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+  </programme>
+  <programme start="20250503204200 -0600" stop="20250503205500 -0600" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+  </programme>
+  <programme start="20250503205500 -0600" stop="20250503210600 -0600" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20250503210600 -0600" stop="20250503211800 -0600" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20250503211800 -0600" stop="20250503213100 -0600" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20250503213100 -0600" stop="20250503213800 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503213800 -0600" stop="20250503214500 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503214500 -0600" stop="20250503215400 -0600" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20250503215400 -0600" stop="20250503220000 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503220000 -0600" stop="20250503220700 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503220700 -0600" stop="20250503221300 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503221300 -0600" stop="20250503221900 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503221900 -0600" stop="20250503222700 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20250503222700 -0600" stop="20250503223400 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503223400 -0600" stop="20250503224100 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503224100 -0600" stop="20250503224800 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503224800 -0600" stop="20250503225700 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503225700 -0600" stop="20250503230400 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503230400 -0600" stop="20250503231100 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503231100 -0600" stop="20250503232000 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20250503232000 -0600" stop="20250503233000 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Looney Tunes</title>
+  </programme>
+  <programme start="20250503233000 -0600" stop="20250503234300 -0600" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Looney Tunes</title>
+  </programme>
+  <programme start="20250503234300 -0600" stop="20250503235100 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503235100 -0600" stop="20250503235700 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20250503235700 -0600" stop="20250504000700 -0600" channel="Canal Tooncast">
+    <title lang="es">Looney Tunes</title>
   </programme>
   <programme start="20250504084000 +0300" stop="20250504102000 +0300" channel="Star Movies">
     <title lang="ar">Second Act</title>
@@ -782,13 +1227,6 @@
     <title lang="ar">Rebel in the Rye</title>
     <title lang="ar">فيلم
                (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250504071500 +0300" stop="20250504080500 +0300" channel="FOX ACTION MOVIES">
-    <title lang="ar">MI-5</title>
-    <title lang="ar">فيلم
-               (2015)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
@@ -861,188 +1299,5 @@
                (2016)</title>
     <title lang="ar">مفضل
             ذكرني</title>
-  </programme>
-  <programme start="20250504000000 +0700" stop="20250504003000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504003000 +0700" stop="20250504010000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504010000 +0700" stop="20250504020000 +0700" channel="Curiosity">
-    <title lang="id">History Of Life On Earth</title>
-  </programme>
-  <programme start="20250504020000 +0700" stop="20250504030000 +0700" channel="Curiosity">
-    <title lang="id">Animals That Changed History</title>
-  </programme>
-  <programme start="20250504030000 +0700" stop="20250504040000 +0700" channel="Curiosity">
-    <title lang="id">Animals Of Thanksgiving</title>
-  </programme>
-  <programme start="20250504040000 +0700" stop="20250504050000 +0700" channel="Curiosity">
-    <title lang="id">The Humboldt Current</title>
-  </programme>
-  <programme start="20250504050000 +0700" stop="20250504053000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504053000 +0700" stop="20250504060000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504060000 +0700" stop="20250504063000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504063000 +0700" stop="20250504070000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504070000 +0700" stop="20250504080000 +0700" channel="Curiosity">
-    <title lang="id">History Of Life On Earth</title>
-  </programme>
-  <programme start="20250504080000 +0700" stop="20250504090000 +0700" channel="Curiosity">
-    <title lang="id">Animals That Changed History</title>
-  </programme>
-  <programme start="20250504090000 +0700" stop="20250504100000 +0700" channel="Curiosity">
-    <title lang="id">Animals Of Thanksgiving</title>
-  </programme>
-  <programme start="20250504100000 +0700" stop="20250504110000 +0700" channel="Curiosity">
-    <title lang="id">The Humboldt Current</title>
-  </programme>
-  <programme start="20250504110000 +0700" stop="20250504113000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504113000 +0700" stop="20250504120000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504120000 +0700" stop="20250504123000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504123000 +0700" stop="20250504130000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504130000 +0700" stop="20250504140000 +0700" channel="Curiosity">
-    <title lang="id">History Of Life On Earth</title>
-  </programme>
-  <programme start="20250504140000 +0700" stop="20250504150000 +0700" channel="Curiosity">
-    <title lang="id">Animals That Changed History</title>
-  </programme>
-  <programme start="20250504150000 +0700" stop="20250504160000 +0700" channel="Curiosity">
-    <title lang="id">Animals Of Thanksgiving</title>
-  </programme>
-  <programme start="20250504160000 +0700" stop="20250504170000 +0700" channel="Curiosity">
-    <title lang="id">The Humboldt Current</title>
-  </programme>
-  <programme start="20250504170000 +0700" stop="20250504173000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504173000 +0700" stop="20250504180000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504180000 +0700" stop="20250504183000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504183000 +0700" stop="20250504190000 +0700" channel="Curiosity">
-    <title lang="id">The Secret Lives Of Big Cats</title>
-  </programme>
-  <programme start="20250504190000 +0700" stop="20250504200500 +0700" channel="Curiosity">
-    <title lang="id">History Of Life On Earth</title>
-  </programme>
-  <programme start="20250504200500 +0700" stop="20250504203000 +0700" channel="Curiosity">
-    <title lang="id">The Demolition Man</title>
-  </programme>
-  <programme start="20250504203000 +0700" stop="20250504210000 +0700" channel="Curiosity">
-    <title lang="id">The Demolition Man</title>
-  </programme>
-  <programme start="20250504210000 +0700" stop="20250504220000 +0700" channel="Curiosity">
-    <title lang="id">Ultimate Processes</title>
-  </programme>
-  <programme start="20250504220000 +0700" stop="20250504230000 +0700" channel="Curiosity">
-    <title lang="id">Ultimate Processes</title>
-  </programme>
-  <programme start="20250504230000 +0700" stop="20250504233000 +0700" channel="Curiosity">
-    <title lang="id">Tech Toys</title>
-  </programme>
-  <programme start="20250504233000 +0700" stop="20250505000000 +0700" channel="Curiosity">
-    <title lang="id">Tech Toys</title>
-  </programme>
-  <programme start="20250504013000 +0700" stop="20250504033000 +0700" channel="Studio Universal">
-    <title lang="id">Eternal Sunshine Of The Spotless Mind</title>
-  </programme>
-  <programme start="20250504033000 +0700" stop="20250504050000 +0700" channel="Studio Universal">
-    <title lang="id">Shrek 2 (2004)</title>
-  </programme>
-  <programme start="20250504050000 +0700" stop="20250504064500 +0700" channel="Studio Universal">
-    <title lang="id">Mama (2013)</title>
-  </programme>
-  <programme start="20250504064500 +0700" stop="20250504085500 +0700" channel="Studio Universal">
-    <title lang="id">Parenthood</title>
-  </programme>
-  <programme start="20250504085500 +0700" stop="20250504110000 +0700" channel="Studio Universal">
-    <title lang="id">47 Ronin (2013)</title>
-  </programme>
-  <programme start="20250504110000 +0700" stop="20250504124500 +0700" channel="Studio Universal">
-    <title lang="id">Brewster's Millions</title>
-  </programme>
-  <programme start="20250504124500 +0700" stop="20250504144000 +0700" channel="Studio Universal">
-    <title lang="id">American Dreamz</title>
-  </programme>
-  <programme start="20250504144000 +0700" stop="20250504162500 +0700" channel="Studio Universal">
-    <title lang="id">Abominable (2019)</title>
-  </programme>
-  <programme start="20250504162500 +0700" stop="20250504175500 +0700" channel="Studio Universal">
-    <title lang="id">Shrek 2 (2004)</title>
-  </programme>
-  <programme start="20250504175500 +0700" stop="20250504195500 +0700" channel="Studio Universal">
-    <title lang="id">Us (2019)</title>
-  </programme>
-  <programme start="20250504195500 +0700" stop="20250504215000 +0700" channel="Studio Universal">
-    <title lang="id">The Adjustment Bureau</title>
-  </programme>
-  <programme start="20250504215000 +0700" stop="20250504234500 +0700" channel="Studio Universal">
-    <title lang="id">One Day</title>
-  </programme>
-  <programme start="20250504234500 +0700" stop="20250505013000 +0700" channel="Studio Universal">
-    <title lang="id">Blues Brothers 2000</title>
-  </programme>
-  <programme start="20250504012500 +0700" stop="20250504034500 +0700" channel="Cinema World">
-    <title lang="id">15 Years</title>
-  </programme>
-  <programme start="20250504034500 +0700" stop="20250504053500 +0700" channel="Cinema World">
-    <title lang="id">Cloud Under The Roof</title>
-  </programme>
-  <programme start="20250504053500 +0700" stop="20250504071500 +0700" channel="Cinema World">
-    <title lang="id">Difret</title>
-  </programme>
-  <programme start="20250504071500 +0700" stop="20250504085000 +0700" channel="Cinema World">
-    <title lang="id">Sarah Kohr: The Devils Moor</title>
-  </programme>
-  <programme start="20250504085000 +0700" stop="20250504104000 +0700" channel="Cinema World">
-    <title lang="id">Forever</title>
-  </programme>
-  <programme start="20250504104000 +0700" stop="20250504122500 +0700" channel="Cinema World">
-    <title lang="id">Oskar &amp; Lilli: Where No One Knows Us</title>
-  </programme>
-  <programme start="20250504122500 +0700" stop="20250504124500 +0700" channel="Cinema World">
-    <title lang="id">On The Way Home II</title>
-  </programme>
-  <programme start="20250504124500 +0700" stop="20250504144000 +0700" channel="Cinema World">
-    <title lang="id">Backwards</title>
-  </programme>
-  <programme start="20250504144000 +0700" stop="20250504165000 +0700" channel="Cinema World">
-    <title lang="id">For The Birds</title>
-  </programme>
-  <programme start="20250504165000 +0700" stop="20250504183000 +0700" channel="Cinema World">
-    <title lang="id">Love At First Fight</title>
-  </programme>
-  <programme start="20250504183000 +0700" stop="20250504200000 +0700" channel="Cinema World">
-    <title lang="id">Sarah Kohr: Ward</title>
-  </programme>
-  <programme start="20250504200000 +0700" stop="20250504213000 +0700" channel="Cinema World">
-    <title lang="id">Confetti</title>
-  </programme>
-  <programme start="20250504213000 +0700" stop="20250504215000 +0700" channel="Cinema World">
-    <title lang="id">Writings On The Wall</title>
-  </programme>
-  <programme start="20250504215000 +0700" stop="20250504233000 +0700" channel="Cinema World">
-    <title lang="id">Murder in Biot</title>
-  </programme>
-  <programme start="20250504233000 +0700" stop="20250505011500 +0700" channel="Cinema World">
-    <title lang="id">Difret</title>
   </programme>
 </tv>
