@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  
+<tv date="20250505021622 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/411983/20250505.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=411983&date=20250505&timezone=None">
+
   <channel id="staraction-mena.njz">
     <display-name lang="ar">Star Action</display-name>
 	<icon src="https://i.imgur.com/ZzLza9k.png" />
@@ -1482,7 +1482,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504004600 +0000" stop="20250504025500 +0000">
+  <programme channel="Studio Universal.id" start="20250504004600 +0800" stop="20250504025500 +0800">
     <title lang="zh">Red Dragon (2002)</title>
     <desc />
     <date>20250504</date>
@@ -1490,7 +1490,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504025500 +0000" stop="20250504050500 +0000">
+  <programme channel="Studio Universal.id" start="20250504025500 +0800" stop="20250504050500 +0800">
     <title lang="zh">The Jackal (1997)</title>
     <desc />
     <date>20250504</date>
@@ -1498,7 +1498,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504050500 +0000" stop="20250504070000 +0000">
+  <programme channel="Studio Universal.id" start="20250504050500 +0800" stop="20250504070000 +0800">
     <title lang="zh">Bird On A Wire (1990)</title>
     <desc />
     <date>20250504</date>
@@ -1506,7 +1506,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504070000 +0000" stop="20250504100600 +0000">
+  <programme channel="Studio Universal.id" start="20250504070000 +0800" stop="20250504100600 +0800">
     <title lang="zh">Casino</title>
     <desc />
     <date>20250504</date>
@@ -1514,7 +1514,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504100600 +0000" stop="20250504114800 +0000">
+  <programme channel="Studio Universal.id" start="20250504100600 +0800" stop="20250504114800 +0800">
     <title lang="zh">Lucy (2014)</title>
     <desc />
     <date>20250504</date>
@@ -1522,7 +1522,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504114800 +0000" stop="20250504133400 +0000">
+  <programme channel="Studio Universal.id" start="20250504114800 +0800" stop="20250504133400 +0800">
     <title lang="zh">Sgt. Bilko (1996)</title>
     <desc />
     <date>20250504</date>
@@ -1530,7 +1530,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504133400 +0000" stop="20250504153600 +0000">
+  <programme channel="Studio Universal.id" start="20250504133400 +0800" stop="20250504153600 +0800">
     <title lang="zh">Kindergarten Cop (1990)</title>
     <desc />
     <date>20250504</date>
@@ -1538,7 +1538,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504153600 +0000" stop="20250504173300 +0000">
+  <programme channel="Studio Universal.id" start="20250504153600 +0800" stop="20250504173300 +0800">
     <title lang="zh">Dr Seuss' How The Grinch Stole Christmas</title>
     <desc />
     <date>20250504</date>
@@ -1546,7 +1546,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504173300 +0000" stop="20250504191500 +0000">
+  <programme channel="Studio Universal.id" start="20250504173300 +0800" stop="20250504191500 +0800">
     <title lang="zh">Shark Tale (2004)</title>
     <desc />
     <date>20250504</date>
@@ -1554,7 +1554,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504191500 +0000" stop="20250504210800 +0000">
+  <programme channel="Studio Universal.id" start="20250504191500 +0800" stop="20250504210800 +0800">
     <title lang="zh">Johnny English Reborn (2011)</title>
     <desc />
     <date>20250504</date>
@@ -1562,7 +1562,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504210800 +0000" stop="20250504230100 +0000">
+  <programme channel="Studio Universal.id" start="20250504210800 +0800" stop="20250504230100 +0800">
     <title lang="zh">Blockers (2018)</title>
     <desc />
     <date>20250504</date>
@@ -1570,7 +1570,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250504230100 +0000" stop="20250505004800 +0000">
+  <programme channel="Studio Universal.id" start="20250504230100 +0800" stop="20250505004800 +0800">
     <title lang="zh">Burn After Reading</title>
     <desc />
     <date>20250504</date>
@@ -1578,7 +1578,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505004800 +0000" stop="20250505023000 +0000">
+  <programme channel="Studio Universal.id" start="20250505004800 +0800" stop="20250505023000 +0800">
     <title lang="zh">Evan Almighty</title>
     <desc />
     <date>20250505</date>
@@ -1586,7 +1586,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505023000 +0000" stop="20250505044000 +0000">
+  <programme channel="Studio Universal.id" start="20250505023000 +0800" stop="20250505044000 +0800">
     <title lang="zh">Hellboy Ii: The Golden Army (2008)</title>
     <desc />
     <date>20250505</date>
@@ -1594,7 +1594,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505044000 +0000" stop="20250505070000 +0000">
+  <programme channel="Studio Universal.id" start="20250505044000 +0800" stop="20250505070000 +0800">
     <title lang="zh">Inside Man (2006)</title>
     <desc />
     <date>20250505</date>
@@ -1602,7 +1602,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505070000 +0000" stop="20250505090900 +0000">
+  <programme channel="Studio Universal.id" start="20250505070000 +0800" stop="20250505090900 +0800">
     <title lang="zh">The Jackal (1997)</title>
     <desc />
     <date>20250505</date>
@@ -1610,7 +1610,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505090900 +0000" stop="20250505110400 +0000">
+  <programme channel="Studio Universal.id" start="20250505090900 +0800" stop="20250505110400 +0800">
     <title lang="zh">Bird On A Wire (1990)</title>
     <desc />
     <date>20250505</date>
@@ -1618,7 +1618,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505110400 +0000" stop="20250505123900 +0000">
+  <programme channel="Studio Universal.id" start="20250505110400 +0800" stop="20250505123900 +0800">
     <title lang="zh">Evan Almighty</title>
     <desc />
     <date>20250505</date>
@@ -1626,7 +1626,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505123900 +0000" stop="20250505144400 +0000">
+  <programme channel="Studio Universal.id" start="20250505123900 +0800" stop="20250505144400 +0800">
     <title lang="zh">Hellboy Ii: The Golden Army (2008)</title>
     <desc />
     <date>20250505</date>
@@ -1634,7 +1634,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505144400 +0000" stop="20250505165700 +0000">
+  <programme channel="Studio Universal.id" start="20250505144400 +0800" stop="20250505165700 +0800">
     <title lang="zh">Inside Man (2006)</title>
     <desc />
     <date>20250505</date>
@@ -1642,7 +1642,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505165700 +0000" stop="20250505183400 +0000">
+  <programme channel="Studio Universal.id" start="20250505165700 +0800" stop="20250505183400 +0800">
     <title lang="zh">Shrek (2001)</title>
     <desc />
     <date>20250505</date>
@@ -1650,7 +1650,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505183400 +0000" stop="20250505201300 +0000">
+  <programme channel="Studio Universal.id" start="20250505183400 +0800" stop="20250505201300 +0800">
     <title lang="zh">Shrek 2 (2004)</title>
     <desc />
     <date>20250505</date>
@@ -1658,7 +1658,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505201300 +0000" stop="20250505215300 +0000">
+  <programme channel="Studio Universal.id" start="20250505201300 +0800" stop="20250505215300 +0800">
     <title lang="zh">Home (2015)</title>
     <desc />
     <date>20250505</date>
@@ -1666,7 +1666,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250505215300 +0000" stop="20250506000000 +0000">
+  <programme channel="Studio Universal.id" start="20250505215300 +0800" stop="20250506000000 +0800">
     <title lang="zh">Parenthood</title>
     <desc />
     <date>20250505</date>
@@ -1674,7 +1674,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506000000 +0000" stop="20250506013600 +0000">
+  <programme channel="Studio Universal.id" start="20250506000000 +0800" stop="20250506013600 +0800">
     <title lang="zh">Shrek (2001)</title>
     <desc />
     <date>20250506</date>
@@ -1682,7 +1682,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506013600 +0000" stop="20250506031400 +0000">
+  <programme channel="Studio Universal.id" start="20250506013600 +0800" stop="20250506031400 +0800">
     <title lang="zh">Shrek 2 (2004)</title>
     <desc />
     <date>20250506</date>
@@ -1690,7 +1690,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506031400 +0000" stop="20250506045300 +0000">
+  <programme channel="Studio Universal.id" start="20250506031400 +0800" stop="20250506045300 +0800">
     <title lang="zh">Home (2015)</title>
     <desc />
     <date>20250506</date>
@@ -1698,7 +1698,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506045300 +0000" stop="20250506070000 +0000">
+  <programme channel="Studio Universal.id" start="20250506045300 +0800" stop="20250506070000 +0800">
     <title lang="zh">Parenthood</title>
     <desc />
     <date>20250506</date>
@@ -1706,7 +1706,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506070000 +0000" stop="20250506083700 +0000">
+  <programme channel="Studio Universal.id" start="20250506070000 +0800" stop="20250506083700 +0800">
     <title lang="zh">Shrek (2001)</title>
     <desc />
     <date>20250506</date>
@@ -1714,7 +1714,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506083700 +0000" stop="20250506101700 +0000">
+  <programme channel="Studio Universal.id" start="20250506083700 +0800" stop="20250506101700 +0800">
     <title lang="zh">Shrek 2 (2004)</title>
     <desc />
     <date>20250506</date>
@@ -1722,7 +1722,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506101700 +0000" stop="20250506115800 +0000">
+  <programme channel="Studio Universal.id" start="20250506101700 +0800" stop="20250506115800 +0800">
     <title lang="zh">Home (2015)</title>
     <desc />
     <date>20250506</date>
@@ -1730,7 +1730,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506115800 +0000" stop="20250506140700 +0000">
+  <programme channel="Studio Universal.id" start="20250506115800 +0800" stop="20250506140700 +0800">
     <title lang="zh">Parenthood</title>
     <desc />
     <date>20250506</date>
@@ -1738,7 +1738,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506140700 +0000" stop="20250506155200 +0000">
+  <programme channel="Studio Universal.id" start="20250506140700 +0800" stop="20250506155200 +0800">
     <title lang="zh">Ride Along</title>
     <desc />
     <date>20250506</date>
@@ -1746,7 +1746,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506155200 +0000" stop="20250506174500 +0000">
+  <programme channel="Studio Universal.id" start="20250506155200 +0800" stop="20250506174500 +0800">
     <title lang="zh">Eternal Sunshine Of The Spotless Mind</title>
     <desc />
     <date>20250506</date>
@@ -1754,7 +1754,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506174500 +0000" stop="20250506194700 +0000">
+  <programme channel="Studio Universal.id" start="20250506174500 +0800" stop="20250506194700 +0800">
     <title lang="zh">Us (2019)</title>
     <desc />
     <date>20250506</date>
@@ -1762,7 +1762,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506194700 +0000" stop="20250506213300 +0000">
+  <programme channel="Studio Universal.id" start="20250506194700 +0800" stop="20250506213300 +0800">
     <title lang="zh">Mama (2013)</title>
     <desc />
     <date>20250506</date>
@@ -1770,7 +1770,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506213300 +0000" stop="20250506231800 +0000">
+  <programme channel="Studio Universal.id" start="20250506213300 +0800" stop="20250506231800 +0800">
     <title lang="zh">Ride Along</title>
     <desc />
     <date>20250506</date>
@@ -1778,7 +1778,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="Studio Universal.id" start="20250506231800 +0000" stop="20250507000000 +0000">
+  <programme channel="Studio Universal.id" start="20250506231800 +0800" stop="20250507000000 +0800">
     <title lang="zh">Eternal Sunshine Of The Spotless Mind</title>
     <desc />
     <date>20250506</date>
