@@ -73,6 +73,14 @@
     <display-name lang="ar">staraction-mena.njz</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
+  <channel id="National Geographic">
+    <display-name lang="ar">nationalgeographic-mena.njz</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Nat. Geo. Wild HD">
+    <display-name lang="en">nationalgeographicwild-mena.njz</display-name>
+    <url>http://www.invision.com.sa</url>
+  </channel>
   <programme start="20250503001000 -0600" stop="20250503010000 -0600" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
   </programme>
@@ -1174,13 +1182,6 @@
   <programme start="20250503235700 -0600" stop="20250504000700 -0600" channel="Canal Tooncast">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20250504084000 +0300" stop="20250504102000 +0300" channel="Star Movies">
-    <title lang="ar">Second Act</title>
-    <title lang="ar">فيلم
-               (2018)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
   <programme start="20250504102000 +0300" stop="20250504121000 +0300" channel="Star Movies">
     <title lang="ar">Big Mamma's House 2</title>
     <title lang="ar">فيلم
@@ -1227,13 +1228,6 @@
     <title lang="ar">Rebel in the Rye</title>
     <title lang="ar">فيلم
                (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250504080500 +0300" stop="20250504100000 +0300" channel="FOX ACTION MOVIES">
-    <title lang="ar">Mr &amp; Mrs. Smith</title>
-    <title lang="ar">فيلم
-               (2005)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
